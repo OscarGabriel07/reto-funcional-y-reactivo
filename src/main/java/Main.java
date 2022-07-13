@@ -9,7 +9,8 @@ public class Main {
         //exercise1.filter();
         //exercise1.map();
         //exercise1.cantidadCorreos();
-        exercise1.catidadCorreosGmailHotmailOutlook();
+        //exercise1.cantidadCorreosGmailHotmailOutlook();
+        exercise1.listChangeState();
 
     }
 
