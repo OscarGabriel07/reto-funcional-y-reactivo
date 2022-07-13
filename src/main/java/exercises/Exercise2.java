@@ -17,6 +17,11 @@ public class Exercise2 {
     }
 
     public void chat(){
+        System.out.println("Programación Reactiva");
+        System.out.println("Crear un chat, un input donde lo que se ingrese sea almacenado " +
+                "en una lista, para posteriormente cambiar en la lista las malas palabras, " +
+                "para sos y compararlas con la lista del chat y si se encuentra una reemplazarla " +
+                "por: **** , todo esto respetando los principios de la programación reactiva.");
 
         Scanner read = new Scanner(System.in);
         System.out.println("Escribir el mensaje: ");
